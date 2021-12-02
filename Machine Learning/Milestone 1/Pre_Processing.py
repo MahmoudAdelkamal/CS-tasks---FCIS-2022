@@ -45,11 +45,15 @@ def Pre_processing():
     corr = data.corr()
     Top_Features = corr.index[abs(corr['SalePrice'] > 0.5)]
 
-    plt.subplots(figsize=(12, 8))
-    top_corr = data[Top_Features].corr()
-    sns.heatmap(top_corr, annot=True)
+    # plt.subplots(figsize=(12, 8))
+    # top_corr = data[Top_Features].corr()
+    # sns.heatmap(top_corr, annot=True)
     # plt.show()
 
     Top_Features = Top_Features.delete(-1)
     Features = Features[Top_Features]
+
+    Features = featureScaling(Features, 0, 1)
+    Sale = np.expand_dims(Sale, axis=1)
+    Sale = featureScaling(Sale, 0, 1)
     return Features, Sale
