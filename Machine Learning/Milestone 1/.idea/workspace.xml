@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6302a16b-5652-4688-82ad-b1aa3ac64e7a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Model_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Model_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pre_Processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pre_Processing.py" afterDir="false" />
     </list>
-    <list id="718c9b37-6a1e-4776-8320-60ceb2158773" name="Changes by NarutoELMatria" comment="">
-      <change beforePath="$PROJECT_DIR$/Model_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model_1.py" afterDir="false" />
-    </list>
+    <list id="718c9b37-6a1e-4776-8320-60ceb2158773" name="Changes by NarutoELMatria" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,16 +24,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/Model_1.py">
-      <ranges>
-        <range start1="0" end1="0" start2="0" end2="1" changelist="718c9b37-6a1e-4776-8320-60ceb2158773" />
-        <range start1="2" end1="4" start2="3" end2="9" changelist="6302a16b-5652-4688-82ad-b1aa3ac64e7a" />
-        <range start1="5" end1="6" start2="10" end2="14" changelist="6302a16b-5652-4688-82ad-b1aa3ac64e7a" />
-        <range start1="7" end1="7" start2="15" end2="23" changelist="6302a16b-5652-4688-82ad-b1aa3ac64e7a" />
-      </ranges>
-    </file>
-  </component>
   <component name="ProjectId" id="21hDXaGwJbr8qN4lDJY87Z5uJsN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -45,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.Model_1">
+  <component name="RunManager" selected="Python.Model_2">
     <configuration name="Model_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Milestone 1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,8 +100,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Model_1" />
         <item itemvalue="Python.Model_2" />
+        <item itemvalue="Python.Model_1" />
       </list>
     </recent_temporary>
   </component>
@@ -137,5 +126,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

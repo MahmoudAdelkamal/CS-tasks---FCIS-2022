@@ -21,8 +21,8 @@ def featureScaling(X, a, b):
     return Normalized_X
 
 
-def Pre_processing():
-    data = pd.read_csv('House_Data.csv')
+def Pre_processing(fname):
+    data = pd.read_csv(fname)
     Encoding_cols = (
         'Street', 'LotShape', 'Utilities', 'MSZoning', 'LotConfig', 'LandSlope', 'Neighborhood', 'BldgType',
         'HouseStyle',
