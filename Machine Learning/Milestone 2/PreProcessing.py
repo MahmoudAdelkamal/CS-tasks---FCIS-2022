@@ -65,7 +65,7 @@ def Preprocessing():
         Features[feature].fillna(Features[feature].mean(), inplace=True)
 
     corr = Features.corr()
-    Features = Features[corr.index[abs(corr["PriceRate"] > 0.5)]]
+    Features = Features[corr.index[abs(corr["PriceRate"]) > 0.5]]
 
     Features.drop("PriceRate", 1, inplace=True)
 
