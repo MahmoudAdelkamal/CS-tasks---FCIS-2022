@@ -1,0 +1,10 @@
+E:\Mahmoud Alaa\FCIS\4th Year FirstTerm\Compilers\Tasks\[2021-2022] JASON_Compiler_Template - For Students\JASON_Compiler\bin\Release\JASON_Compiler.exe.config
+E:\Mahmoud Alaa\FCIS\4th Year FirstTerm\Compilers\Tasks\[2021-2022] JASON_Compiler_Template - For Students\JASON_Compiler\bin\Release\JASON_Compiler.exe
+E:\Mahmoud Alaa\FCIS\4th Year FirstTerm\Compilers\Tasks\[2021-2022] JASON_Compiler_Template - For Students\JASON_Compiler\bin\Release\JASON_Compiler.pdb
+E:\Mahmoud Alaa\FCIS\4th Year FirstTerm\Compilers\Tasks\[2021-2022] JASON_Compiler_Template - For Students\JASON_Compiler\obj\Release\JASON_Compiler.Form1.resources
+E:\Mahmoud Alaa\FCIS\4th Year FirstTerm\Compilers\Tasks\[2021-2022] JASON_Compiler_Template - For Students\JASON_Compiler\obj\Release\JASON_Compiler.Form2.resources
+E:\Mahmoud Alaa\FCIS\4th Year FirstTerm\Compilers\Tasks\[2021-2022] JASON_Compiler_Template - For Students\JASON_Compiler\obj\Release\JASON_Compiler.Properties.Resources.resources
+E:\Mahmoud Alaa\FCIS\4th Year FirstTerm\Compilers\Tasks\[2021-2022] JASON_Compiler_Template - For Students\JASON_Compiler\obj\Release\Tiny_Compiler.csproj.GenerateResource.cache
+E:\Mahmoud Alaa\FCIS\4th Year FirstTerm\Compilers\Tasks\[2021-2022] JASON_Compiler_Template - For Students\JASON_Compiler\obj\Release\Tiny_Compiler.csproj.CoreCompileInputs.cache
+E:\Mahmoud Alaa\FCIS\4th Year FirstTerm\Compilers\Tasks\[2021-2022] JASON_Compiler_Template - For Students\JASON_Compiler\obj\Release\JASON_Compiler.exe
+E:\Mahmoud Alaa\FCIS\4th Year FirstTerm\Compilers\Tasks\[2021-2022] JASON_Compiler_Template - For Students\JASON_Compiler\obj\Release\JASON_Compiler.pdb

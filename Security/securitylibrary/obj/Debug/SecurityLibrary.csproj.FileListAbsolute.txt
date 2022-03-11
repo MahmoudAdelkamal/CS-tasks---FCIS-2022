@@ -18,3 +18,8 @@ E:\Mahmoud Alaa\FCIS\4th Year SecondTerm\Security\Labs\Lab 1\SecurityPackage\Sec
 E:\Mahmoud Alaa\FCIS\4th Year SecondTerm\Security\Labs\Lab 1\SecurityPackage\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.CoreCompileInputs.cache
 E:\Mahmoud Alaa\FCIS\4th Year SecondTerm\Security\Labs\Lab 1\SecurityPackage\SecurityLibrary\obj\Debug\SecurityLibrary.dll
 E:\Mahmoud Alaa\FCIS\4th Year SecondTerm\Security\Labs\Lab 1\SecurityPackage\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+C:\computer science\CS tasks 2022\CS-tasks---FCIS-2022\Security\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+C:\computer science\CS tasks 2022\CS-tasks---FCIS-2022\Security\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+C:\computer science\CS tasks 2022\CS-tasks---FCIS-2022\Security\SecurityLibrary\obj\Debug\SecurityLibrary.csprojAssemblyReference.cache
+C:\computer science\CS tasks 2022\CS-tasks---FCIS-2022\Security\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+C:\computer science\CS tasks 2022\CS-tasks---FCIS-2022\Security\SecurityLibrary\obj\Debug\SecurityLibrary.pdb

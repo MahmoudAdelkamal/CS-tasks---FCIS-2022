@@ -1,0 +1,30 @@
+E:\Mahmoud Alaa\FCIS\4th Year FirstTerm\Compilers\Tasks\[2021-2022] JASON_Compiler_Template - For Students\JASON_Compiler\bin\Debug\JASON_Compiler.exe.config
+E:\Mahmoud Alaa\FCIS\4th Year FirstTerm\Compilers\Tasks\[2021-2022] JASON_Compiler_Template - For Students\JASON_Compiler\bin\Debug\JASON_Compiler.exe
+E:\Mahmoud Alaa\FCIS\4th Year FirstTerm\Compilers\Tasks\[2021-2022] JASON_Compiler_Template - For Students\JASON_Compiler\bin\Debug\JASON_Compiler.pdb
+E:\Mahmoud Alaa\FCIS\4th Year FirstTerm\Compilers\Tasks\[2021-2022] JASON_Compiler_Template - For Students\JASON_Compiler\obj\Debug\JASON_Compiler.Form1.resources
+E:\Mahmoud Alaa\FCIS\4th Year FirstTerm\Compilers\Tasks\[2021-2022] JASON_Compiler_Template - For Students\JASON_Compiler\obj\Debug\JASON_Compiler.Form2.resources
+E:\Mahmoud Alaa\FCIS\4th Year FirstTerm\Compilers\Tasks\[2021-2022] JASON_Compiler_Template - For Students\JASON_Compiler\obj\Debug\JASON_Compiler.Properties.Resources.resources
+E:\Mahmoud Alaa\FCIS\4th Year FirstTerm\Compilers\Tasks\[2021-2022] JASON_Compiler_Template - For Students\JASON_Compiler\obj\Debug\Tiny_Compiler.csproj.GenerateResource.cache
+E:\Mahmoud Alaa\FCIS\4th Year FirstTerm\Compilers\Tasks\[2021-2022] JASON_Compiler_Template - For Students\JASON_Compiler\obj\Debug\Tiny_Compiler.csproj.CoreCompileInputs.cache
+E:\Mahmoud Alaa\FCIS\4th Year FirstTerm\Compilers\Tasks\[2021-2022] JASON_Compiler_Template - For Students\JASON_Compiler\obj\Debug\JASON_Compiler.exe
+E:\Mahmoud Alaa\FCIS\4th Year FirstTerm\Compilers\Tasks\[2021-2022] JASON_Compiler_Template - For Students\JASON_Compiler\obj\Debug\JASON_Compiler.pdb
+C:\computer science\CS tasks 2022\CS-tasks---FCIS-2022\Compiler\Compiler_Milestone1\28-Tiny_Compiler_Code\JASON_Compiler\bin\Debug\JASON_Compiler.exe.config
+C:\computer science\CS tasks 2022\CS-tasks---FCIS-2022\Compiler\Compiler_Milestone1\28-Tiny_Compiler_Code\JASON_Compiler\bin\Debug\JASON_Compiler.exe
+C:\computer science\CS tasks 2022\CS-tasks---FCIS-2022\Compiler\Compiler_Milestone1\28-Tiny_Compiler_Code\JASON_Compiler\bin\Debug\JASON_Compiler.pdb
+C:\computer science\CS tasks 2022\CS-tasks---FCIS-2022\Compiler\Compiler_Milestone1\28-Tiny_Compiler_Code\JASON_Compiler\obj\Debug\Tiny_Compiler.csprojAssemblyReference.cache
+C:\computer science\CS tasks 2022\CS-tasks---FCIS-2022\Compiler\Compiler_Milestone1\28-Tiny_Compiler_Code\JASON_Compiler\obj\Debug\JASON_Compiler.Form1.resources
+C:\computer science\CS tasks 2022\CS-tasks---FCIS-2022\Compiler\Compiler_Milestone1\28-Tiny_Compiler_Code\JASON_Compiler\obj\Debug\JASON_Compiler.Form2.resources
+C:\computer science\CS tasks 2022\CS-tasks---FCIS-2022\Compiler\Compiler_Milestone1\28-Tiny_Compiler_Code\JASON_Compiler\obj\Debug\JASON_Compiler.Properties.Resources.resources
+C:\computer science\CS tasks 2022\CS-tasks---FCIS-2022\Compiler\Compiler_Milestone1\28-Tiny_Compiler_Code\JASON_Compiler\obj\Debug\Tiny_Compiler.csproj.GenerateResource.cache
+C:\computer science\CS tasks 2022\CS-tasks---FCIS-2022\Compiler\Compiler_Milestone1\28-Tiny_Compiler_Code\JASON_Compiler\obj\Debug\JASON_Compiler.exe
+C:\computer science\CS tasks 2022\CS-tasks---FCIS-2022\Compiler\Compiler_Milestone1\28-Tiny_Compiler_Code\JASON_Compiler\obj\Debug\JASON_Compiler.pdb
+C:\computer science\CS tasks 2022\CS-tasks---FCIS-2022\Compiler\Compiler\28-Tiny_Compiler_Code\JASON_Compiler\bin\Debug\JASON_Compiler.exe.config
+C:\computer science\CS tasks 2022\CS-tasks---FCIS-2022\Compiler\Compiler\28-Tiny_Compiler_Code\JASON_Compiler\bin\Debug\JASON_Compiler.exe
+C:\computer science\CS tasks 2022\CS-tasks---FCIS-2022\Compiler\Compiler\28-Tiny_Compiler_Code\JASON_Compiler\bin\Debug\JASON_Compiler.pdb
+C:\computer science\CS tasks 2022\CS-tasks---FCIS-2022\Compiler\Compiler\28-Tiny_Compiler_Code\JASON_Compiler\obj\Debug\Tiny_Compiler.csprojAssemblyReference.cache
+C:\computer science\CS tasks 2022\CS-tasks---FCIS-2022\Compiler\Compiler\28-Tiny_Compiler_Code\JASON_Compiler\obj\Debug\JASON_Compiler.Form1.resources
+C:\computer science\CS tasks 2022\CS-tasks---FCIS-2022\Compiler\Compiler\28-Tiny_Compiler_Code\JASON_Compiler\obj\Debug\JASON_Compiler.Form2.resources
+C:\computer science\CS tasks 2022\CS-tasks---FCIS-2022\Compiler\Compiler\28-Tiny_Compiler_Code\JASON_Compiler\obj\Debug\JASON_Compiler.Properties.Resources.resources
+C:\computer science\CS tasks 2022\CS-tasks---FCIS-2022\Compiler\Compiler\28-Tiny_Compiler_Code\JASON_Compiler\obj\Debug\Tiny_Compiler.csproj.GenerateResource.cache
+C:\computer science\CS tasks 2022\CS-tasks---FCIS-2022\Compiler\Compiler\28-Tiny_Compiler_Code\JASON_Compiler\obj\Debug\JASON_Compiler.exe
+C:\computer science\CS tasks 2022\CS-tasks---FCIS-2022\Compiler\Compiler\28-Tiny_Compiler_Code\JASON_Compiler\obj\Debug\JASON_Compiler.pdb

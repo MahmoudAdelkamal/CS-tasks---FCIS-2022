@@ -51,7 +51,7 @@ namespace SecurityLibrary
             for (int i = 0; i < cipherText.Length; i++)
             {
                 int curCharIdx = key.IndexOf(cipherText[i]);
-                DecryptText += (curCharIdx + 'a');
+                DecryptText += (char)(curCharIdx + 'a');
             }
 
             return DecryptText;
