@@ -23,3 +23,9 @@ C:\computer science\CS tasks 2022\CS-tasks---FCIS-2022\Security\SecurityLibrary\
 C:\computer science\CS tasks 2022\CS-tasks---FCIS-2022\Security\SecurityLibrary\obj\Debug\SecurityLibrary.csprojAssemblyReference.cache
 C:\computer science\CS tasks 2022\CS-tasks---FCIS-2022\Security\SecurityLibrary\obj\Debug\SecurityLibrary.dll
 C:\computer science\CS tasks 2022\CS-tasks---FCIS-2022\Security\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+F:\Comp. Science\GP_Team\CS-tasks---FCIS-2022\Security\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+F:\Comp. Science\GP_Team\CS-tasks---FCIS-2022\Security\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+F:\Comp. Science\GP_Team\CS-tasks---FCIS-2022\Security\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.AssemblyReference.cache
+F:\Comp. Science\GP_Team\CS-tasks---FCIS-2022\Security\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.CoreCompileInputs.cache
+F:\Comp. Science\GP_Team\CS-tasks---FCIS-2022\Security\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+F:\Comp. Science\GP_Team\CS-tasks---FCIS-2022\Security\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
