@@ -34,3 +34,12 @@ C:\computer science\CS tasks 2022\CS-tasks---FCIS-2022\Security\SecurityPackageT
 C:\computer science\CS tasks 2022\CS-tasks---FCIS-2022\Security\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.CopyComplete
 C:\computer science\CS tasks 2022\CS-tasks---FCIS-2022\Security\SecurityPackageTest\obj\Debug\SecurityPackageTest.dll
 C:\computer science\CS tasks 2022\CS-tasks---FCIS-2022\Security\SecurityPackageTest\obj\Debug\SecurityPackageTest.pdb
+F:\Comp. Science\GP_Team\CS-tasks---FCIS-2022\Security\SecurityPackageTest\bin\Debug\SecurityPackageTest.dll
+F:\Comp. Science\GP_Team\CS-tasks---FCIS-2022\Security\SecurityPackageTest\bin\Debug\SecurityPackageTest.pdb
+F:\Comp. Science\GP_Team\CS-tasks---FCIS-2022\Security\SecurityPackageTest\bin\Debug\SecurityLibrary.dll
+F:\Comp. Science\GP_Team\CS-tasks---FCIS-2022\Security\SecurityPackageTest\bin\Debug\SecurityLibrary.pdb
+F:\Comp. Science\GP_Team\CS-tasks---FCIS-2022\Security\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.AssemblyReference.cache
+F:\Comp. Science\GP_Team\CS-tasks---FCIS-2022\Security\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.CoreCompileInputs.cache
+F:\Comp. Science\GP_Team\CS-tasks---FCIS-2022\Security\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.CopyComplete
+F:\Comp. Science\GP_Team\CS-tasks---FCIS-2022\Security\SecurityPackageTest\obj\Debug\SecurityPackageTest.dll
+F:\Comp. Science\GP_Team\CS-tasks---FCIS-2022\Security\SecurityPackageTest\obj\Debug\SecurityPackageTest.pdb
