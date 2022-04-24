@@ -16,7 +16,39 @@ namespace SecurityLibrary.AES
         /// <returns>Mul inverse, -1 if no inv</returns>
         public int GetMultiplicativeInverse(int number, int baseN)
         {
-            throw new NotImplementedException();
+            int b = number;
+            int m = baseN;
+            int a1 = 1, a2 = 0, a3 = m;
+            int b1 = 0, b2 = 1, b3 = b;
+
+            while (b3 != 0 && b3 != 1)
+            {
+                int q = a3 / b3;
+                int t1 = a1 - (q * b1);
+                int t2 = a2 - (q * b2);
+                int t3 = a3 - (q * b3);
+
+                a1 = b1;
+                a2 = b2;
+                a3 = b3;
+                b1 = t1;
+                b2 = t2;
+                b3 = t3;
+            }
+
+            if (b3 == 0)
+            {
+                return -1;
+            }
+            else if (b3 == 1)
+            {
+                if (b2 < -1)
+                    b2 = b2 + baseN;
+                return b2;
+            }
+
+            return -1;
         }
+    
     }
 }
