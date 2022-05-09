@@ -29,3 +29,15 @@ F:\Comp. Science\GP_Team\CS-tasks---FCIS-2022\Security\SecurityLibrary\obj\Debug
 F:\Comp. Science\GP_Team\CS-tasks---FCIS-2022\Security\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.CoreCompileInputs.cache
 F:\Comp. Science\GP_Team\CS-tasks---FCIS-2022\Security\SecurityLibrary\obj\Debug\SecurityLibrary.dll
 F:\Comp. Science\GP_Team\CS-tasks---FCIS-2022\Security\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+C:\Users\mahmo\OneDrive\Documents\GitHub\CS-tasks---FCIS-2022\Security\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+C:\Users\mahmo\OneDrive\Documents\GitHub\CS-tasks---FCIS-2022\Security\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+C:\Users\mahmo\OneDrive\Documents\GitHub\CS-tasks---FCIS-2022\Security\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.AssemblyReference.cache
+C:\Users\mahmo\OneDrive\Documents\GitHub\CS-tasks---FCIS-2022\Security\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\OneDrive\Documents\GitHub\CS-tasks---FCIS-2022\Security\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+C:\Users\mahmo\OneDrive\Documents\GitHub\CS-tasks---FCIS-2022\Security\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+D:\Saeed\CS\Security\Security\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+D:\Saeed\CS\Security\Security\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+D:\Saeed\CS\Security\Security\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.AssemblyReference.cache
+D:\Saeed\CS\Security\Security\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.CoreCompileInputs.cache
+D:\Saeed\CS\Security\Security\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+D:\Saeed\CS\Security\Security\SecurityLibrary\obj\Debug\SecurityLibrary.pdb

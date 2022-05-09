@@ -43,3 +43,12 @@ F:\Comp. Science\GP_Team\CS-tasks---FCIS-2022\Security\SecurityPackageTest\obj\D
 F:\Comp. Science\GP_Team\CS-tasks---FCIS-2022\Security\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.CopyComplete
 F:\Comp. Science\GP_Team\CS-tasks---FCIS-2022\Security\SecurityPackageTest\obj\Debug\SecurityPackageTest.dll
 F:\Comp. Science\GP_Team\CS-tasks---FCIS-2022\Security\SecurityPackageTest\obj\Debug\SecurityPackageTest.pdb
+D:\Saeed\CS\Security\Security\SecurityPackageTest\bin\Debug\SecurityPackageTest.dll
+D:\Saeed\CS\Security\Security\SecurityPackageTest\bin\Debug\SecurityPackageTest.pdb
+D:\Saeed\CS\Security\Security\SecurityPackageTest\bin\Debug\SecurityLibrary.dll
+D:\Saeed\CS\Security\Security\SecurityPackageTest\bin\Debug\SecurityLibrary.pdb
+D:\Saeed\CS\Security\Security\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.AssemblyReference.cache
+D:\Saeed\CS\Security\Security\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.CoreCompileInputs.cache
+D:\Saeed\CS\Security\Security\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.CopyComplete
+D:\Saeed\CS\Security\Security\SecurityPackageTest\obj\Debug\SecurityPackageTest.dll
+D:\Saeed\CS\Security\Security\SecurityPackageTest\obj\Debug\SecurityPackageTest.pdb
