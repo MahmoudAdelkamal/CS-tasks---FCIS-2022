@@ -46,3 +46,9 @@ D:\college material\4th year\2nd term\Security\CS-tasks---FCIS-2022\Security\Sec
 D:\college material\4th year\2nd term\Security\CS-tasks---FCIS-2022\Security\SecurityLibrary\obj\Debug\SecurityLibrary.csprojAssemblyReference.cache
 D:\college material\4th year\2nd term\Security\CS-tasks---FCIS-2022\Security\SecurityLibrary\obj\Debug\SecurityLibrary.dll
 D:\college material\4th year\2nd term\Security\CS-tasks---FCIS-2022\Security\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+C:\Users\Hp\Documents\GitHub\CS-tasks---FCIS-2022\Security\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+C:\Users\Hp\Documents\GitHub\CS-tasks---FCIS-2022\Security\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+C:\Users\Hp\Documents\GitHub\CS-tasks---FCIS-2022\Security\SecurityLibrary\obj\Debug\SecurityLibrary.csprojAssemblyReference.cache
+C:\Users\Hp\Documents\GitHub\CS-tasks---FCIS-2022\Security\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\GitHub\CS-tasks---FCIS-2022\Security\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+C:\Users\Hp\Documents\GitHub\CS-tasks---FCIS-2022\Security\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
