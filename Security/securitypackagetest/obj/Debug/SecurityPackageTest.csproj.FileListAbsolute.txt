@@ -52,3 +52,11 @@ D:\Saeed\CS\Security\Security\SecurityPackageTest\obj\Debug\SecurityPackageTest.
 D:\Saeed\CS\Security\Security\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.CopyComplete
 D:\Saeed\CS\Security\Security\SecurityPackageTest\obj\Debug\SecurityPackageTest.dll
 D:\Saeed\CS\Security\Security\SecurityPackageTest\obj\Debug\SecurityPackageTest.pdb
+D:\college material\4th year\2nd term\Security\CS-tasks---FCIS-2022\Security\SecurityPackageTest\bin\Debug\SecurityPackageTest.dll
+D:\college material\4th year\2nd term\Security\CS-tasks---FCIS-2022\Security\SecurityPackageTest\bin\Debug\SecurityPackageTest.pdb
+D:\college material\4th year\2nd term\Security\CS-tasks---FCIS-2022\Security\SecurityPackageTest\bin\Debug\SecurityLibrary.dll
+D:\college material\4th year\2nd term\Security\CS-tasks---FCIS-2022\Security\SecurityPackageTest\bin\Debug\SecurityLibrary.pdb
+D:\college material\4th year\2nd term\Security\CS-tasks---FCIS-2022\Security\SecurityPackageTest\obj\Debug\SecurityPackageTest.csprojAssemblyReference.cache
+D:\college material\4th year\2nd term\Security\CS-tasks---FCIS-2022\Security\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.CopyComplete
+D:\college material\4th year\2nd term\Security\CS-tasks---FCIS-2022\Security\SecurityPackageTest\obj\Debug\SecurityPackageTest.dll
+D:\college material\4th year\2nd term\Security\CS-tasks---FCIS-2022\Security\SecurityPackageTest\obj\Debug\SecurityPackageTest.pdb
